@@ -1,0 +1,13 @@
+index;name;abbreviation
+1;Visual1;vis1
+2;Visual2;vis2
+3;Somatomotor;smn
+4;Auditory;aud
+5;Language;lan
+6;Dorsal-attention;dan
+7;Frontoparietal;fpn
+8;Cingulo-Opercular;con
+9;Default;dmn
+10;Posterior-Multimodal;pmm
+11;Ventral-Multimodal;vmm
+12;Orbito-Affective;ora
